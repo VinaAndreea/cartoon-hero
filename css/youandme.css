@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	font-family: 'Playfair Display', serif;
+;
+}
+
+header{
+	background-color: honeydew;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 50px;
+}
+
+h1, h2{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	color: rosybrown;
+
+}
+
+header h1{
+	color: hotpink;
+	font-size: 20px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+header img{
+	border-radius: 156px;
+	width: 400px;
+	border: 10px;
+	border-style: solid;
+	border-color: wheat;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: plum;
+}
+
+p{
+	font-size: 20px;
+	color: indianred;
+}
+
+a{
+	color: darkred;
+}
+
+a:hover{
+	background-color: whitesmoke;
+	color: black;
+}
+
+footer{
+	background-color: honeydew;
+	text-align: center;
+}

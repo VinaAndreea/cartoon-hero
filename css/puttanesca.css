@@ -3,8 +3,8 @@ body{
    font-family: 'Gentium Plus', serif;
 }
 
-header{
-	background-color:#FFDAB9;
+head{
+	background-color:lemonchiffon;
 	text-align: center;
 	padding-top: 60px;
 	padding-bottom: 60px;
@@ -12,8 +12,40 @@ header{
 }
 
 h1, h2{
-	background-color:#FFDAB9;
+	background-color:lemonchiffon;
 	font-family: 'Gentium Plus', serif;
 	font-size: 50px;
-	color:#8B0000;
+	color:harvest gold;
+	
+}
+
+header{
+	color: #6F4E37;
+	background-color: lemonchiffon;
+	text-align: center;
+}        
+main{
+	margin: 10px;
+}
+
+body{
+	margin: 20px;
+}
+
+main img{
+	width: 100px;
+}
+
+
+footer{
+	background-color: lemonchiffon;
+	text-align: center;
+}
+a{
+	color: darkred;
+}
+
+a:hover{
+	background-color: whitesmoke;
+	color: black;
 }
